@@ -25,6 +25,12 @@ The goal is to support business operations and generate actionable insights thro
 
 ---
 
+## Entity-Relationship Diagram
+
+The following ER diagram illustrates the database schema and relationships between entities.
+
+![Entity-Relationship Diagram](image/eshop_er_diagram.png)
+
 ## Database Schema
 
 The database consists of the following tables:
