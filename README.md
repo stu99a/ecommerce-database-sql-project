@@ -140,13 +140,16 @@ Contains store-level information.
 ---
 
 ## Project Structure
-
+├── image
+  |
+  ├── eshop_er_diagram.png
+  |
 ├── schema.sql
-
+|
 ├── queries.sql
-
+|
 ├── advanced_queries.sql
-
+|
 ├── README.md
 
 ---
