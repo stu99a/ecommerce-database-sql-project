@@ -142,7 +142,7 @@ Contains store-level information.
 ## Project Structure
 ├── image
 
-  ├── eshop_er_diagram.png
+  - eshop_er_diagram.png
 
 ├── schema.sql
 
