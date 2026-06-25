@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the design and implementation of a relational database management system for an e-commerce platform that sells books, movies, and music records.
+This project was completed for Harvard University's CS50 Introduction to Databases with SQL course. It involves the design and implementation of a relational database management system for an e-commerce platform that sells books, movies, and music records.
 
 The database was developed using SQL and demonstrates key database concepts including schema design, normalization, data integrity, relational modeling, and business analytics reporting.
 
