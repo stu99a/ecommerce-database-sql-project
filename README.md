@@ -142,8 +142,11 @@ Contains store-level information.
 ## Project Structure
 
 ├── schema.sql
+
 ├── queries.sql
+
 ├── advanced_queries.sql
+
 ├── README.md
 
 ---
